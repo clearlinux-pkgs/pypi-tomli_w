@@ -4,7 +4,7 @@
 #
 Name     : pypi-tomli_w
 Version  : 1.0.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/49/05/6bf21838623186b91aedbda06248ad18f03487dc56fbc20e4db384abde6c/tomli_w-1.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/49/05/6bf21838623186b91aedbda06248ad18f03487dc56fbc20e4db384abde6c/tomli_w-1.0.0.tar.gz
 Summary  : A lil' TOML writer
